@@ -3,8 +3,6 @@
   <p><b>Onde a organização encontra a execução impecável.</b></p>
 </div>
 
----
-
 ## 📌 Sobre o Checaaí
 
 O **Checaaí** é uma plataforma SaaS desenvolvida para transformar a maneira como empresas lidam com rotinas, padronizações e processos. 
@@ -54,5 +52,5 @@ Se você acabou de chegar ao time, seja muito bem-vindo(a)! Para começar a coda
 <div align="center">
   <i>"Checklists simplificados. Processos otimizados. Equipes sincronizadas."</i>
   <br><br>
-  Feito com muito ☕ (e outros *fármácos estimulantes*)pela equipe <b>Checaaí</b>.
+  Feito com muito ☕ (e outros *fármácos estimulantes*) pela equipe <b>Checaaí</b>.
 </div>
