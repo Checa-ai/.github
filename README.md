@@ -54,5 +54,5 @@ Se você acabou de chegar ao time, seja muito bem-vindo(a)! Para começar a coda
 <div align="center">
   <i>"Checklists simplificados. Processos otimizados. Equipes sincronizadas."</i>
   <br><br>
-  Feito com muito ☕ (e outros _farmácos estimulantes_ pela equipe <b>Checaaí</b>.
+  Feito com muito ☕ (e outros *fármácos estimulantes*)pela equipe <b>Checaaí</b>.
 </div>
